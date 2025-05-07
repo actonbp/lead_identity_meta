@@ -1,7 +1,0 @@
---- Zotero Import Log V3 ---
-Connecting to Zotero library ID kingba117...
-Error connecting to Zotero: 
-Code: 400
-URL: https://api.zotero.org/users/kingba117/collections?locale=en-US&limit=1&format=json
-Method: GET
-Response: Invalid user ID
