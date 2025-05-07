@@ -1,2 +1,4 @@
 .env
-venv/ 
+venv/
+extract_dois.py
+downloaded_pdfs/ 
